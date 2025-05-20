@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 62cf22153d78dd7e290f48a63d851d06
+  productGUID: 11098311190638359a7e0df85f642142
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -759,10 +759,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5d4a1969-588b-443d-8e9f-0678d389f17b
+  cloudProjectId: 56b4e5c8-5cfa-40f0-9ea7-d1de2abe93dd
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: rpg
+  projectName: rpg 2025-05-18_14-35-56
   organizationId: macronsattelite
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
