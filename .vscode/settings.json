@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "rpg.sln"
+    "dotnet.defaultSolution": "rpg-combat.sln"
 }
